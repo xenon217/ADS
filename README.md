@@ -2,8 +2,7 @@
 def busca_simples(lista, item):
     for i in range(len(lista)):
         if lista[i] == item:
-            return i  # retorna a posição do item
-    return None  
+            return i 
 
 
 
