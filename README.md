@@ -1,3 +1,5 @@
+Pablo Oliveira Refundini
+
 #1
 def busca_simples(lista, item):
     for i in range(len(lista)):
